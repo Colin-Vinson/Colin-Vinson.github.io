@@ -95,7 +95,7 @@ h1 {
     text-align: left;
     padding: 20px 15px;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(6, minmax(0, 1fr));
     grid-gap: 30px;
     grid-auto-rows: minmax(100px, auto);
     position: relative;
