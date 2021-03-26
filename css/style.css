@@ -89,7 +89,7 @@ h1 {
 }
 
 .project-tile{
-    font-size: 40px;
+    font-size: 25px;
     width: 100%;
     background: #008B8B;
     text-align: left;
@@ -105,15 +105,15 @@ h1 {
 .project-one {
     background-color: rgb(233, 12, 12);
     grid-column-start: 2;
-    grid-column-end: 3;
+    grid-column-end: 4;
     grid-row: 1;
     text-align: center;
 }
 
 .project-two { 
     background-color: gray;
-    grid-column-start: 3;
-    grid-column-end: 5;
+    grid-column-start: 4;
+    grid-column-end: 6;
     grid-row: 1;
     text-align: center;
 }
