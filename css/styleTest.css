@@ -1,0 +1,17 @@
+.welcome {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.project-tile{
+    display: grid;
+    gap: 20px 30px;
+    grid-template-columns: auto auto;
+    background-color: palegreen;
+}
+
+.project-container{
+    background-color: peru;
+    align-items: center;
+    text-align: center;
+}
